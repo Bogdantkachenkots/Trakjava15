@@ -1,2 +1,1 @@
-# Trakjava15
-Trakjava15
+let colors = ['red', 'green', 'blue'];
